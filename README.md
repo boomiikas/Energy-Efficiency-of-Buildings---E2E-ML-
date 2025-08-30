@@ -53,6 +53,7 @@ The dataset includes building characteristics such as compactness, wall area, ro
 ---
 
 ## 🖼️ App Screenshot
+<img width="867" height="755" alt="image" src="https://github.com/user-attachments/assets/61c4c416-c61b-48b4-bd12-76539ea198a1" />
 
 
 ## 📈 Model Performance
