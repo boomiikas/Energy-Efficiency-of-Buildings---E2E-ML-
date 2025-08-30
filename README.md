@@ -48,7 +48,7 @@ The dataset includes building characteristics such as compactness, wall area, ro
 ---
 
 ## 🌐 Live App Link
-[Energy Efficiency Prediction App]http://10.150.253.220:8502/
+[Energy Efficiency Prediction App](https://energy-efficiency-prediction-b5.streamlit.app/)
 
 ---
 
