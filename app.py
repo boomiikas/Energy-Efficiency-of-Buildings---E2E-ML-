@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 
-model = pickle.load(open('trained_model.sav', 'rb'))
+model = pickle.load(open('trained_model.sav','rb'))
 
 st.set_page_config(page_title="Heating Load Prediction", page_icon="🔥", layout="centered")
 
